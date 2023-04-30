@@ -1,4 +1,5 @@
-# Mad Libs Project
+# Mad Libs Project with Python
+print("")
 print("Welcome to the Mad Lib Game.🎉")
 print("")
 
